@@ -3,6 +3,7 @@ title Healthcare Wellness & Preventive Care Portal
 
 actor Patient
 actor "Healthcare Provider" as Provider
+![WhatsApp Image 2026-01-18 at 5 35 21 PM](https://github.com/user-attachments/assets/f40147f8-841b-47ba-b79d-22bdae5f9c0a)
 
 "Healthcare Wellness Portal" {
 
